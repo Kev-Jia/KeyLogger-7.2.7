@@ -1,7 +1,7 @@
 from pynput.keyboard import Key, Listener
 import logging
 
-#Imported all the needed files
+#Imported all the needed modules
 
 log_dir = "logs/"
 
